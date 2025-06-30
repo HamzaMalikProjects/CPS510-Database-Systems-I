@@ -40,7 +40,7 @@ Through hands-on assignments, we designed, implemented, and tested scalable and 
 ---
 
 ## 📁 Repository Structure
-
+'''
 /Lab 1 – Database Design.pdf
 /Lab 2 – System Diagram.pdf
 /Lab 3 – Table Definitions.pdf
@@ -50,6 +50,7 @@ Through hands-on assignments, we designed, implemented, and tested scalable and 
 /Lab 10 – Final Project Submission
 /Term Project – Complete DBMS
 /Bonus – Project Management Notes
+'''
 ---
 
 
